@@ -64,5 +64,4 @@ python3 black_scholes.py
 - SciPy
 
 ## Author
-Awais | BSc Accounting and Finance, University of Leicester
-github.com/awaisdotnet
+Awais | University of Leicester | github.com/awaisdotnet
